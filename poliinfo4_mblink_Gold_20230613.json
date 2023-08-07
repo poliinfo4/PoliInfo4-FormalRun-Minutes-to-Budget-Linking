@@ -1,0 +1,539 @@
+[
+    {
+        "sentenceID": "otaru_h28-01-sent16",
+        "tableIds": [
+            "otaru_h28-tab188",
+            "otaru_h28-tab4"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent21",
+        "tableIds": [
+            "otaru_h28-tab197"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent22",
+        "tableIds": [
+            "otaru_h28-tab123",
+            "otaru_h28-tab315"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent23",
+        "tableIds": [
+            "otaru_h28-tab185",
+            "otaru_h28-tab299"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent24",
+        "tableIds": [
+            "otaru_h28-tab285"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent35",
+        "tableIds": [
+            "otaru_h28-tab166",
+            "otaru_h28-tab269"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent39",
+        "tableIds": [
+            "otaru_h28-tab293"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent42",
+        "tableIds": [
+            "otaru_h28-tab288"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent59",
+        "tableIds": [
+            "otaru_h28-tab188",
+            "otaru_h28-tab340",
+            "otaru_h28-tab609",
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent60",
+        "tableIds": [
+            "otaru_h28-tab334"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent64",
+        "tableIds": [
+            "otaru_h28-tab122",
+            "otaru_h28-tab138",
+            "otaru_h28-tab142",
+            "otaru_h28-tab227"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent66",
+        "tableIds": [
+            "otaru_h28-tab464"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent71",
+        "tableIds": [
+            "otaru_h28-tab187",
+            "otaru_h28-tab311",
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent72",
+        "tableIds": [
+            "otaru_h28-tab119"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent73",
+        "tableIds": [
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent77",
+        "tableIds": [
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent78",
+        "tableIds": [
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent79",
+        "tableIds": [
+            "otaru_h28-tab281"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent81",
+        "tableIds": [
+            "otaru_h28-tab285"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent87",
+        "tableIds": [
+            "otaru_h28-tab264"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent92",
+        "tableIds": [
+            "otaru_h28-tab195",
+            "otaru_h28-tab605"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent94",
+        "tableIds": [
+            "otaru_h28-tab121",
+            "otaru_h28-tab224"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent98",
+        "tableIds": [
+            "otaru_h28-tab4",
+            "otaru_h28-tab44",
+            "otaru_h28-tab45",
+            "otaru_h28-tab46"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent99",
+        "tableIds": [
+            "otaru_h28-tab188",
+            "otaru_h28-tab4"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent100",
+        "tableIds": [
+            "otaru_h28-tab4"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent101",
+        "tableIds": [
+            "otaru_h28-tab636",
+            "otaru_h28-tab639"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent102",
+        "tableIds": [
+            "otaru_h28-tab126",
+            "otaru_h28-tab256",
+            "otaru_h28-tab299",
+            "otaru_h28-tab635",
+            "otaru_h28-tab655"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent103",
+        "tableIds": [
+            "otaru_h28-tab197",
+            "otaru_h28-tab261",
+            "otaru_h28-tab319",
+            "otaru_h28-tab636"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent104",
+        "tableIds": [
+            "otaru_h28-tab635",
+            "otaru_h28-tab636"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent106",
+        "tableIds": [
+            "otaru_h28-tab3"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent107",
+        "tableIds": [
+            "otaru_h28-tab13",
+            "otaru_h28-tab4"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent108",
+        "tableIds": [
+            "otaru_h28-tab24",
+            "otaru_h28-tab3"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent109",
+        "tableIds": [
+            "otaru_h28-tab22"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent110",
+        "tableIds": [
+            "otaru_h28-tab3",
+            "otaru_h28-tab481"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent112",
+        "tableIds": [
+            "otaru_h28-tab3",
+            "otaru_h28-tab674",
+            "otaru_h28-tab678"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent114",
+        "tableIds": [
+            "otaru_h28-tab776"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent115",
+        "tableIds": [
+            "otaru_h28-tab3"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent116",
+        "tableIds": [
+            "otaru_h28-tab3",
+            "otaru_h28-tab814"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent118",
+        "tableIds": [
+            "otaru_h28-tab3"
+        ]
+    },
+    {
+        "sentenceID": "otaru_h28-01-sent119",
+        "tableIds": [
+            "otaru_h28-tab3"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent33",
+        "tableIds": [
+            "otaru_r03-tab17",
+            "otaru_r03-tab21"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent34",
+        "tableIds": [
+            "otaru_r03-tab274"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent36",
+        "tableIds": [
+            "otaru_r03-tab168",
+            "otaru_r03-tab17",
+            "otaru_r03-tab69"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent37",
+        "tableIds": [
+            "otaru_r03-tab21",
+            "otaru_r03-tab274",
+            "otaru_r03-tab628"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent43",
+        "tableIds": [
+            "otaru_r03-tab212"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent44",
+        "tableIds": [
+            "otaru_r03-tab166"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent45",
+        "tableIds": [
+            "otaru_r03-tab258"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent47",
+        "tableIds": [
+            "otaru_r03-tab256",
+            "otaru_r03-tab259"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent57",
+        "tableIds": [
+            "otaru_r03-tab223",
+            "otaru_r03-tab75"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent62",
+        "tableIds": [
+            "otaru_r03-tab659"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent63",
+        "tableIds": [
+            "otaru_r03-tab659"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent73",
+        "tableIds": [
+            "otaru_r03-tab659"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent83",
+        "tableIds": [
+            "otaru_r03-tab152"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent85",
+        "tableIds": [
+            "otaru_r03-tab268"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent86",
+        "tableIds": [
+            "otaru_r03-tab269"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent87",
+        "tableIds": [
+            "otaru_r03-tab272"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent90",
+        "tableIds": [
+            "otaru_r03-tab658"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent91",
+        "tableIds": [
+            "otaru_r03-tab658"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent92",
+        "tableIds": [
+            "otaru_r03-tab759"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent102",
+        "tableIds": [
+            "otaru_r03-tab17",
+            "otaru_r03-tab69",
+            "otaru_r03-tab71"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent103",
+        "tableIds": [
+            "otaru_r03-tab17"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent104",
+        "tableIds": [
+            "otaru_r03-tab99"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent105",
+        "tableIds": [
+            "otaru_r03-tab168",
+            "otaru_r03-tab17"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent106",
+        "tableIds": [
+            "otaru_r03-tab628"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent107",
+        "tableIds": [
+            "otaru_r03-tab150"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent108",
+        "tableIds": [
+            "otaru_r03-tab628"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent109",
+        "tableIds": [
+            "otaru_r03-tab217",
+            "otaru_r03-tab628"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent110",
+        "tableIds": [
+            "otaru_r03-tab177",
+            "otaru_r03-tab628"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent111",
+        "tableIds": [
+            "otaru_r03-tab628",
+            "otaru_r03-tab630"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent113",
+        "tableIds": [
+            "otaru_r03-tab41"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent114",
+        "tableIds": [
+            "otaru_r03-tab39"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent115",
+        "tableIds": [
+            "otaru_r03-tab326"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent116",
+        "tableIds": [
+            "otaru_r03-tab48"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent117",
+        "tableIds": [
+            "otaru_r03-tab46"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent118",
+        "tableIds": [
+            "otaru_r03-tab355",
+            "otaru_r03-tab360",
+            "otaru_r03-tab54"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent119",
+        "tableIds": [
+            "otaru_r03-tab680"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent121",
+        "tableIds": [
+            "otaru_r03-tab769"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent122",
+        "tableIds": [
+            "otaru_r03-tab865",
+            "otaru_r03-tab867",
+            "otaru_r03-tab868"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent123",
+        "tableIds": [
+            "otaru_r03-tab1023",
+            "otaru_r03-tab1025"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent124",
+        "tableIds": [
+            "otaru_r03-tab1043"
+        ]
+    },
+    {
+        "sentenceID": "otaru_r03-01-sent126",
+        "tableIds": [
+            "otaru_r03-tab10"
+        ]
+    }
+]
